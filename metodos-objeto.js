@@ -21,4 +21,4 @@ const chavesObjeto = Object.keys(estudante);
 console.log(chavesObjeto);
 
 if (!chavesObjeto.includes('enderecos')) {
-  console.error('é necessário ter um endereço cadastrado')
+  console.error('é necessário ter um endereço cadastrado')}
